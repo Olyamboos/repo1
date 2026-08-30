@@ -1,0 +1,4 @@
+service:
+  fsdr:
+  dsa:
+    - iot8
